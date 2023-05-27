@@ -32,3 +32,5 @@ target
 test
 .idea
 .gitconfig
+.env
+node_modules/
